@@ -17,7 +17,7 @@ HAPPY
 
 
 
-[columbia-logo.png]
+
 
 COLUMBIARECORDS.COM
 
