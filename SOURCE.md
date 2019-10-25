@@ -19,6 +19,6 @@ HAPPY
 
 
 
-COLUMBIARECORDS.COM
+
 
 [sony-logo.png]
